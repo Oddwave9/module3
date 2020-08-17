@@ -1,0 +1,9 @@
+@media only screen and (min-width: 576px){
+    .collapse.navbar-collapse{
+        display: none !important;
+    }
+}
+
+#bodytext{
+    background-color: firebrick !important;
+}
